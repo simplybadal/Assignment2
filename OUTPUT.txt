@@ -1,0 +1,4 @@
+ques1. 0
+ques2. 1 1
+ques3. 2
+ques6. 49
